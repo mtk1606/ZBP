@@ -37,17 +37,17 @@ function Card() {
         <div id="card-inside">
           <div className="wrap">
             <p>Happy Birthday, Zakaria!</p>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque delectus dolore recusandae eveniet dicta. Corrupti.</p>
+            <p>Another year older, another year wiser, may Allah be with you always. You deserve all the happiness in the world today and every day.</p>
             <p>
-              I hope you have a very blessed birthday!
+              I hope you have a wonderful birthday filled with laughter, joy, and everything you love!
             </p>
             <p>
-             Lorem, ipsum dolor sit amet consectetur adipisicing elit. Repudiandae, cum.
+             Thank you for being such an amazing brother friend. Here's to celebrating you and everything that makes you special!
             </p>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
+              Wishing you a year ahead filled with new adventures and sucess, good health, and endless possibilities.
             </p>
-            <p className="signed">Zakaria</p>
+            <p className="signed">With Love & Best Wishes</p>
           </div>
         </div>
 
